@@ -1,0 +1,8 @@
+{
+  "Id": 1,
+  "FirstName": "some",
+  "LastName": "some",
+  "Age": 10,
+  "gender": 1,
+  "FileAccess": 2
+}
